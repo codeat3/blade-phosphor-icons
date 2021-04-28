@@ -1,0 +1,53 @@
+{
+    "name": "codeat3/blade-phophor-icons",
+    "description": "A package to easily make use of \"Phosphor Icons\" in your Laravel Blade views.",
+    "keywords": ["Blade", "phosphor-icons", "Laravel"],
+    "homepage": "https://github.com/codeat3/blade-phophor-icons",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Swapnil Sarwe",
+            "homepage": "https://swapnilsarwe.com"
+        },
+        {
+            "name": "Dries Vints",
+            "homepage": "https://driesvints.com"
+        }
+    ],
+    "require": {
+        "php": "^7.3|^8.0",
+        "blade-ui-kit/blade-icons": "^0.5.0",
+        "illuminate/support": "^7.14|^8.0"
+    },
+    "require-dev": {
+        "codeat3/phpcs-styles": "dev-main",
+        "orchestra/testbench": "^5.0|^6.0",
+        "phpunit/phpunit": "^8.0|^9.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Codeat3\\BladePhosphorIcons\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+              "Codeat3\\BladePhosphorIcons\\BladePhosphorIconsServiceProvider"
+            ]
+        }
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "scripts": {
+        "test": "vendor/bin/phpunit",
+        "format": "vendor/bin/php-cs-fixer fix"
+    }
+}
