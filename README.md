@@ -53,6 +53,35 @@ And even use inline styles:
 <x-phosphor-alarm style="color: #555"/>
 ```
 
+For bold svg icon add `-bold` suffix
+
+```blade
+<x-phosphor-alarm-bold/>
+```
+
+For duotone svg icon add `-duotone` suffix
+
+```blade
+<x-phosphor-alarm-duotone/>
+```
+
+For fill svg icon add `-fill` suffix
+
+```blade
+<x-phosphor-alarm-fill/>
+```
+
+For light svg icon add `-light` suffix
+
+```blade
+<x-phosphor-alarm-light/>
+```
+
+For thin svg icon add `-thin` suffix
+
+```blade
+<x-phosphor-alarm-thin/>
+```
 ### Raw SVG Icons
 
 If you want to use the raw SVG icons as assets, you can publish them using:
