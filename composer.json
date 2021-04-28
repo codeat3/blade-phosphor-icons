@@ -1,8 +1,8 @@
 {
-    "name": "codeat3/blade-phophor-icons",
+    "name": "codeat3/blade-phosphor-icons",
     "description": "A package to easily make use of \"Phosphor Icons\" in your Laravel Blade views.",
     "keywords": ["Blade", "phosphor-icons", "Laravel"],
-    "homepage": "https://github.com/codeat3/blade-phophor-icons",
+    "homepage": "https://github.com/codeat3/blade-phosphor-icons",
     "license": "MIT",
     "authors": [
         {

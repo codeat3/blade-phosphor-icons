@@ -1,17 +1,17 @@
 <p align="center">
-    <img src="https://banners.beyondco.de/Blade%20Phosphor%20Icons.png?theme=light&packageManager=composer+require&packageName=codeat3%2Fblade-phophor-icons&pattern=architect&style=style_1&description=A+package+to+use+Phosphor+Icons+in+your+Laravel+Blade+views&md=1&showWatermark=1&fontSize=100px&images=https%3A%2F%2Flaravel.com%2Fimg%2Flogomark.min.svg" width="1280" title="Social Card Blade Phosphor Icons">
+    <img src="https://banners.beyondco.de/Blade%20Phosphor%20Icons.png?theme=light&packageManager=composer+require&packageName=codeat3%2Fblade-phosphor-icons&pattern=architect&style=style_1&description=A+package+to+use+Phosphor+Icons+in+your+Laravel+Blade+views&md=1&showWatermark=1&fontSize=100px&images=https%3A%2F%2Flaravel.com%2Fimg%2Flogomark.min.svg" width="1280" title="Social Card Blade Phosphor Icons">
 </p>
 
 # Blade Phosphor Icons
 
-<a href="https://github.com/codeat3/blade-phophor-icons/actions?query=workflow%3ATests">
-    <img src="https://github.com/codeat3/blade-phophor-icons/workflows/Tests/badge.svg" alt="Tests">
+<a href="https://github.com/codeat3/blade-phosphor-icons/actions?query=workflow%3ATests">
+    <img src="https://github.com/codeat3/blade-phosphor-icons/workflows/Tests/badge.svg" alt="Tests">
 </a>
-<a href="https://packagist.org/packages/codeat3/blade-phophor-icons">
-    <img src="https://img.shields.io/packagist/v/codeat3/blade-phophor-icons" alt="Latest Stable Version">
+<a href="https://packagist.org/packages/codeat3/blade-phosphor-icons">
+    <img src="https://img.shields.io/packagist/v/codeat3/blade-phosphor-icons" alt="Latest Stable Version">
 </a>
-<a href="https://packagist.org/packages/codeat3/blade-phophor-icons">
-    <img src="https://img.shields.io/packagist/dt/codeat3/blade-phophor-icons" alt="Total Downloads">
+<a href="https://packagist.org/packages/codeat3/blade-phosphor-icons">
+    <img src="https://img.shields.io/packagist/dt/codeat3/blade-phosphor-icons" alt="Total Downloads">
 </a>
 
 A package to easily make use of [Phosphor Icons](https://github.com/phosphor-icons/phosphor-icons) in your Laravel Blade views.
@@ -26,7 +26,7 @@ For a full list of available icons see [the SVG directory](resources/svg) or pre
 ## Installation
 
 ```bash
-composer require codeat3/blade-phophor-icons
+composer require codeat3/blade-phosphor-icons
 ```
 
 ## Updating
@@ -58,13 +58,13 @@ And even use inline styles:
 If you want to use the raw SVG icons as assets, you can publish them using:
 
 ```bash
-php artisan vendor:publish --tag=blade-phophor-icons --force
+php artisan vendor:publish --tag=blade-phosphor-icons --force
 ```
 
 Then use them in your views like:
 
 ```blade
-<img src="{{ asset('vendor/blade-phophor-icons/alarm.svg') }}" width="10" height="10"/>
+<img src="{{ asset('vendor/blade-phosphor-icons/alarm.svg') }}" width="10" height="10"/>
 ```
 
 ### Blade Icons

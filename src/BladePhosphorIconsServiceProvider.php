@@ -23,8 +23,8 @@ final class BladePhosphorIconsServiceProvider extends ServiceProvider
     {
         if ($this->app->runningInConsole()) {
             $this->publishes([
-                __DIR__.'/../resources/svg' => public_path('vendor/blade-phophor-icons'),
-            ], 'blade-phophor-icons');
+                __DIR__.'/../resources/svg' => public_path('vendor/blade-phosphor-icons'),
+            ], 'blade-phosphor-icons');
         }
     }
 }
