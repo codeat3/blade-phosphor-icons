@@ -10,3 +10,4 @@ $finder = Finder::create()
     ->ignoreVCS(true);
 
 return Codeat3\styles($finder);
+

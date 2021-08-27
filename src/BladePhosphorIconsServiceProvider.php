@@ -19,7 +19,6 @@ final class BladePhosphorIconsServiceProvider extends ServiceProvider
 
             $factory->add('phosphor-icons', array_merge(['path' => __DIR__.'/../resources/svg'], $config));
         });
-
     }
 
     private function registerConfig(): void
