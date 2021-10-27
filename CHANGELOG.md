@@ -2,7 +2,7 @@
 
 This changelog follows [the Keep a Changelog standard](https://keepachangelog.com).
 
-## [Unreleased](https://github.com/ccodeat3/blade-phosphor-icons/compare/1.2.1...main)
+## [Unreleased](https://github.com/codeat3/blade-phosphor-icons/compare/1.2.1...main)
 
 ## 1.2.1 (2021-05-12)
 - updated to the latest Phosphor Icons - thanks to @deligoez
