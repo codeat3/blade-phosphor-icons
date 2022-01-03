@@ -2,14 +2,27 @@
 
 This changelog follows [the Keep a Changelog standard](https://keepachangelog.com).
 
-## [Unreleased](https://github.com/codeat3/blade-phosphor-icons/compare/1.2.1...main)
+## [Unreleased](https://github.com/codeat3/blade-phosphor-icons/compare/1.3.1...HEAD)
+
+## [1.3.1](https://github.com/codeat3/blade-phosphor-icons/compare/1.2.1...1.3.1) - 2022-01-03
+
+### Dev Update
+
+- added auto update change log workflow
+- running auto update only once a week
+
+### Updates
+
+- Current package support [Phosphor Icons #ef44a967cc5525a8b71fea20364be3e066c38f6e](https://github.com/phosphor-icons/phosphor-icons/commit/ef44a967cc5525a8b71fea20364be3e066c38f6e)
 
 ## 1.2.1 (2021-05-12)
+
 - updated to the latest Phosphor Icons - thanks to @deligoez
 - added auto generation of icons to keep up to date
 - Current package support [Phosphor Icons #c64475a0a807d526bd39bf7b3de6fb0f7d872584](https://github.com/phosphor-icons/phosphor-icons/commit/c64475a0a807d526bd39bf7b3de6fb0f7d872584)
 
 ## 1.1.1 (2021-05-12)
+
 - Added support for config file
 
 ## 1.0.0 (2021-04-28)
