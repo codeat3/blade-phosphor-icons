@@ -2,7 +2,19 @@
 
 This changelog follows [the Keep a Changelog standard](https://keepachangelog.com).
 
-## [Unreleased](https://github.com/codeat3/blade-phosphor-icons/compare/1.4.1...HEAD)
+## [Unreleased](https://github.com/codeat3/blade-phosphor-icons/compare/1.5.1...HEAD)
+
+## [1.5.1](https://github.com/codeat3/blade-phosphor-icons/compare/1.4.1...1.5.1) - 2023-02-18
+
+### What's Changed
+
+- laravel 10 support by @wit3 in https://github.com/codeat3/blade-phosphor-icons/pull/7
+
+### New Contributors
+
+- @wit3 made their first contribution in https://github.com/codeat3/blade-phosphor-icons/pull/7
+
+**Full Changelog**: https://github.com/codeat3/blade-phosphor-icons/compare/1.4.1...1.5.1
 
 ## [1.4.1](https://github.com/codeat3/blade-phosphor-icons/compare/1.3.1...1.4.1) - 2022-02-04
 
