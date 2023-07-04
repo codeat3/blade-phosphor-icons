@@ -2,7 +2,15 @@
 
 This changelog follows [the Keep a Changelog standard](https://keepachangelog.com).
 
-## [Unreleased](https://github.com/codeat3/blade-phosphor-icons/compare/1.5.1...HEAD)
+## [Unreleased](https://github.com/codeat3/blade-phosphor-icons/compare/2.0.0...HEAD)
+
+## [2.0.0](https://github.com/codeat3/blade-phosphor-icons/compare/1.5.1...2.0.0) - 2023-07-04
+
+### What's Changed
+
+- Phosphoricons v2.0 (#10) by @NikarashiHatsu
+
+**Full Changelog**: https://github.com/codeat3/blade-phosphor-icons/compare/1.5.1...2.0.0
 
 ## [1.5.1](https://github.com/codeat3/blade-phosphor-icons/compare/1.4.1...1.5.1) - 2023-02-18
 
