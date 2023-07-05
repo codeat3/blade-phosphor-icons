@@ -25,8 +25,14 @@ For a full list of available icons see [the SVG directory](resources/svg) or pre
 
 ## Installation
 
+### For Phosphor Icons v1
 ```bash
-composer require codeat3/blade-phosphor-icons
+composer require codeat3/blade-phosphor-icons:^1.0
+```
+
+### For Phosphor Icons v2
+```bash
+composer require codeat3/blade-phosphor-icons:^2.0
 ```
 
 ## Updating
