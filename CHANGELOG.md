@@ -2,7 +2,16 @@
 
 This changelog follows [the Keep a Changelog standard](https://keepachangelog.com).
 
-## [Unreleased](https://github.com/codeat3/blade-phosphor-icons/compare/2.0.0...HEAD)
+## [Unreleased](https://github.com/codeat3/blade-phosphor-icons/compare/2.0.2...HEAD)
+
+## [2.0.2](https://github.com/codeat3/blade-phosphor-icons/compare/2.0.0...2.0.2) - 2023-07-05
+
+### What's Changed
+
+- auto update github action changes by @swapnilsarwe #13
+- Update the icons from @phosphor-icons/core to version 2.0.2 (latest) changes by @thaqebon #11
+
+**Full Changelog**: https://github.com/codeat3/blade-phosphor-icons/compare/2.0.0...2.0.2
 
 ## [2.0.0](https://github.com/codeat3/blade-phosphor-icons/compare/1.5.1...2.0.0) - 2023-07-04
 
