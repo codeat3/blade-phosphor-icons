@@ -2,7 +2,7 @@
     <img src="./socialcard-blade-phosphor-icons.png" width="1280" title="Social Card Blade Phosphor Icons">
 </p>
 
-# Blade Phosphor Icons
+# Blade Phosphor Icons v2
 
 <a href="https://github.com/codeat3/blade-phosphor-icons/actions?query=workflow%3ATests">
     <img src="https://github.com/codeat3/blade-phosphor-icons/workflows/Tests/badge.svg" alt="Tests">
@@ -25,8 +25,14 @@ For a full list of available icons see [the SVG directory](resources/svg) or pre
 
 ## Installation
 
+### For Phosphor Icons v1
 ```bash
-composer require codeat3/blade-phosphor-icons
+composer require codeat3/blade-phosphor-icons:^1.0
+```
+
+### For Phosphor Icons v2
+```bash
+composer require codeat3/blade-phosphor-icons:^2.0
 ```
 
 ## Updating
@@ -65,34 +71,21 @@ And even use inline styles:
 <x-phosphor-alarm style="color: #555"/>
 ```
 
-For bold svg icon add `-bold` suffix
+Or use the `@svg` directive:
 
 ```blade
-<x-phosphor-alarm-bold/>
+@svg('phosphor-alarm', 'w-6 h-6', ['style' => 'color: #555'])
 ```
 
-For duotone svg icon add `-duotone` suffix
+The 6 weights can be referenced like this:
 
 ```blade
-<x-phosphor-alarm-duotone/>
-```
-
-For fill svg icon add `-fill` suffix
-
-```blade
-<x-phosphor-alarm-fill/>
-```
-
-For light svg icon add `-light` suffix
-
-```blade
-<x-phosphor-alarm-light/>
-```
-
-For thin svg icon add `-thin` suffix
-
-```blade
-<x-phosphor-alarm-thin/>
+<x-phosphor-alarm/>         <!-- Regular svg -->
+<x-phosphor-alarm-bold/>    <!-- For bold svg icon add `-bold` suffix -->
+<x-phosphor-alarm-duotone/> <!-- For duotone svg icon add `-duotone` suffix -->
+<x-phosphor-alarm-fill/>    <!-- For fill svg icon add `-fill` suffix -->
+<x-phosphor-alarm-light/>   <!-- For light svg icon add `-light` suffix -->
+<x-phosphor-alarm-thin/>    <!-- For thin svg icon add `-thin` suffix -->
 ```
 ### Raw SVG Icons
 
