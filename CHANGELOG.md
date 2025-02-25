@@ -2,7 +2,19 @@
 
 This changelog follows [the Keep a Changelog standard](https://keepachangelog.com).
 
-## [Unreleased](https://github.com/codeat3/blade-phosphor-icons/compare/2.2.0...HEAD)
+## [Unreleased](https://github.com/codeat3/blade-phosphor-icons/compare/2.3.0...HEAD)
+
+## [2.3.0](https://github.com/codeat3/blade-phosphor-icons/compare/2.2.0...2.3.0) - 2025-02-25
+
+### What's Changed
+
+* Laravel 12 and PHP 8.4 support by @nuernbergerA in https://github.com/codeat3/blade-phosphor-icons/pull/29
+
+### New Contributors
+
+* @nuernbergerA made their first contribution in https://github.com/codeat3/blade-phosphor-icons/pull/29
+
+**Full Changelog**: https://github.com/codeat3/blade-phosphor-icons/compare/2.2.0...2.3.0
 
 ## [2.2.0](https://github.com/codeat3/blade-phosphor-icons/compare/2.1.0...2.2.0) - 2024-04-08
 
