@@ -2,7 +2,20 @@
 
 This changelog follows [the Keep a Changelog standard](https://keepachangelog.com).
 
-## [Unreleased](https://github.com/codeat3/blade-phosphor-icons/compare/2.3.0...HEAD)
+## [Unreleased](https://github.com/codeat3/blade-phosphor-icons/compare/2.4.0...HEAD)
+
+## [2.4.0](https://github.com/codeat3/blade-phosphor-icons/compare/2.3.0...2.4.0) - 2026-03-21
+
+### What's Changed
+
+* Add note about caching icons in production by @jxxe in https://github.com/codeat3/blade-phosphor-icons/pull/31
+* laravel 13 compatibility by @swapnilsarwe in https://github.com/codeat3/blade-phosphor-icons/pull/34
+
+### New Contributors
+
+* @jxxe made their first contribution in https://github.com/codeat3/blade-phosphor-icons/pull/31
+
+**Full Changelog**: https://github.com/codeat3/blade-phosphor-icons/compare/2.3.0...2.4.0
 
 ## [2.3.0](https://github.com/codeat3/blade-phosphor-icons/compare/2.2.0...2.3.0) - 2025-02-25
 
